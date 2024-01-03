@@ -1,0 +1,1 @@
+			tambahDataPasien(&tPasien, &nPasien)
